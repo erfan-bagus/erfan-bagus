@@ -30,7 +30,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=erfan-bagus&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-bagus&hide=TeX&layout=compact)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Erfan%20Bagus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://id.linkedin.com/in/erfan-bagus-200743149/)](https://id.linkedin.com/in/erfan-bagus-200743149/)
